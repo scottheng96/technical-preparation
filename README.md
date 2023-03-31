@@ -11,3 +11,20 @@ This project is a crash course in software engineering technical interview conce
 - possibility of Java expansion
   - explore the advantages of java and build around that
 - possibility of software engineering principles
+
+## Content
+
+1. Big-0 & Sorting Algorithms
+2. Standard Data Types: Numbers, Strings, Lists, Tuples, Dictionaries
+3. Data Structures: Linked Lists, Stacks, Queues, Priority Queues
+4. Data Structures: Trees, Graphs
+5. Greedy Algorithms
+6. Dynamic Programming
+7. Randomized Algorithms
+8. Linear Programming
+9. Intractability
+
+
+## TODO
+
+1. (Big_O.py) complete model answers for (1) merge_sort (2) quick_sort
